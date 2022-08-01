@@ -1,0 +1,13 @@
+.two-columns__paragraph {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 30px;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
+
+/* убрать отступ у последнего объекта */
+.two-columns__paragraph:last-of-type {
+  margin: 0;
+}

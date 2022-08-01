@@ -1,0 +1,13 @@
+.video__iframe {
+  box-sizing: border-box;
+  width: 515px;
+  height: 316px;
+  margin-right: 20px;
+  /* опустить элемент на 50 px ниже*/
+  transform: translate(0, 50px);
+}
+
+/* убрать отступ у 2го (правого элемента видео) объекта */
+.video__iframe:last-of-type {
+  margin: 0;
+}
