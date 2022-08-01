@@ -6,8 +6,10 @@
   font-size: 18px;
   font-weight: normal;
   text-decoration: none;
+  transition-duration: 1s;
 }
 
 .footer__column-link:hover {
-  color: #0f0;
+  /*color: #0f0;*/
+  opacity: .5;
 }
