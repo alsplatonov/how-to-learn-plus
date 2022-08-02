@@ -1,6 +1,8 @@
 .description {
-  padding-top: 100px;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
+  padding-top: 100px;
   display: flex;
   justify-content: center;
 }

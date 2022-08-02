@@ -1,5 +1,5 @@
 .kaufman {
-  background-color: #1D1D1D;
+  background-color: #1f1f1f;
   position: relative;
   overflow: hidden;
   box-sizing: border-box;
@@ -11,16 +11,3 @@
   margin: 0;
   padding: 90px 0;
 }
-
-
-/*
-.digits {
-  padding-top: 100px;
-  padding-bottom: 100px;
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-*/
