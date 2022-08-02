@@ -1,5 +1,7 @@
 .section-subtitle {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
   width: 60%;
   text-align: center;
   line-height: 34px;
