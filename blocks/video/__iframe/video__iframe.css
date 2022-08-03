@@ -5,9 +5,7 @@
   width: 515px;
   height: 316px;
   margin-right: 20px;
-  /* опустить элемент на 50 px ниже*/
-  transform: translate(0, 50px);
-
+  border: none;
 }
 
 /* убрать отступ у 2го (правого элемента видео) объекта */
