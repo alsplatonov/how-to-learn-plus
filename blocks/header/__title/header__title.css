@@ -7,7 +7,7 @@
 
   margin: auto 64px;
   width: 730px;
-  height: 192px;
+  min-height: 192px;
 
   font-style: normal;
   font-weight: 600;
