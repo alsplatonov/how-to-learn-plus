@@ -5,11 +5,8 @@
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
-  /*border: 1px solid red;*/
   position: relative;
   display: flex;
   overflow: hidden;
   background-color: #f2f2f2;
-  /*align-items: center;*/
-  /* выше установили ограничения для секции */
 }
